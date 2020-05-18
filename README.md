@@ -22,12 +22,12 @@ The first notebook, Identify_Customer_Segments_Data_Wrangling.ipynb, contains th
 
 The second notebook, Identify_Customer_Segments-Clustering.ipynb, implements the following steps:
  - Feature transformation:
-  - feature scaling
-  - dimensionality reduction
-  - interpretaion of the principal components
+   - feature scaling
+   - dimensionality reduction
+   - interpretaion of the principal components
  - Clustering:
-  - clustering of the general population
-  - clustering of the customer data
+   - clustering of the general population
+   - clustering of the customer data
  - Comparison of the general population and customers
  
  
